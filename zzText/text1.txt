@@ -1,1 +1,8 @@
 Code by kunal bisht
+
+public void printMethod {
+
+
+	print("hello world")
+
+}
