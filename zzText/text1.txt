@@ -6,3 +6,9 @@ public void printMethod {
 	print("hello world")
 
 }
+
+
+public void method1_develop(){
+}
+
+public void method2_develop(){
